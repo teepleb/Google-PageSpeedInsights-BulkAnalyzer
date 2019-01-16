@@ -5,8 +5,6 @@
 
 # Google-PageSpeedInsightsV5 Bulk Checker
 
-A bulk page speed script for V5 of the Google Page Speed Insights API. This script will query the API in bulk and build proper data sets for quick analysis.
-
 This Python script queries V5 of the Google Page Speed Insights API in bulk, with proper threading. The script will generate multiple CSVs with data for "quick analysis" for someone to then dive in to specific instances, or pages, on their website causing problems.
 
 ### Installation
